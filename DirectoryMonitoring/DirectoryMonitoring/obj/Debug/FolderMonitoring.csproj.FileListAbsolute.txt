@@ -1,0 +1,14 @@
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.FolderMonitoringForm.resources
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.Properties.Resources.resources
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\FolderMonitoring.exe.config
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\FolderMonitoring.exe
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\FolderMonitoring.pdb
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\ErrorManager.dll
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\ErrorManager.pdb
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\bin\Debug\ErrorManager.dll.config
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.csproj.CopyComplete
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.exe
+C:\Users\OK\source\repos\FolderMonitoring\FolderMonitoring\obj\Debug\FolderMonitoring.pdb

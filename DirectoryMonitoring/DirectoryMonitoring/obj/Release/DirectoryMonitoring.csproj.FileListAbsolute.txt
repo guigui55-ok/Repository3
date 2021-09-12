@@ -1,0 +1,14 @@
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\FolderMonitoring.exe.config
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\FolderMonitoring.exe
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\FolderMonitoring.pdb
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\ErrorManager.dll
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\ErrorManager.pdb
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\bin\Release\ErrorManager.dll.config
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\DirectoryMonitoring.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\FolderMonitoring.DirectoryMonitoringForm.resources
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\FolderMonitoring.Properties.Resources.resources
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\DirectoryMonitoring.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\DirectoryMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\DirectoryMonitoring.csproj.CopyComplete
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\FolderMonitoring.exe
+C:\Users\OK\source\repos\DirectoryMonitoring\DirectoryMonitoring\obj\Release\FolderMonitoring.pdb
