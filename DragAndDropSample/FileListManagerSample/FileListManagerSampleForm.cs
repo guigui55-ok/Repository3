@@ -29,9 +29,9 @@ namespace FileListManagerSample
             _fileList = new List<string>();
             _files = new Files(_err, _fileList);
             _fileListManager = new FileListManager(_err, _files);
+            _fileListControl = new FileListControlListBox(_err, this.listBox1, _files);
             _fileListManager.UpdateFileListAfterEvent += _fileListControl.UpdateFileListAfterEvent;
 
-            _fileListControl = new FileListControlListBox(_err, this.listBox1, _files);
             _fileListControl.SelectedItemEvent += _files.SelectedFileEvent;
         }
 
@@ -47,6 +47,7 @@ namespace FileListManagerSample
                 _err.AddLog("  GetPath=" + _dragAndDropForFile.Files[0]);
                 this.textBox1.Text = _dragAndDropForFile.Files[0];
                 AddLog("SetDirectoryPath=" + _dragAndDropForFile.Files[0]);
+                textBox1.Text = _dragAndDropForFile.Files[0];
                 _fileListManager.SetFilesFromPath(_dragAndDropForFile.Files[0]);
             }
             catch (Exception ex)
@@ -69,12 +70,14 @@ namespace FileListManagerSample
         {
             _fileListManager.MoveNextDirectory();
             AddLog("SetDirectoryPath=" + _files.DirectoryPath);
+            textBox1.Text = _dragAndDropForFile.Files[0];
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             _fileListManager.MovePreviousDirectory();
             AddLog("SetDirectoryPath=" + _files.DirectoryPath);
+            textBox1.Text = _dragAndDropForFile.Files[0];
         }
     }
 }

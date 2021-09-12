@@ -84,6 +84,30 @@ namespace CommonUtility.FileListUtility
             }
         }
 
+        public void MoveNextFileWhenLastFileNextDirectory()
+        {
+            try
+            {
+                if (_files.IsLastIndex()) { this.MoveNextDirectory(); }
+                else { _files.MoveNext(); }                
+            } catch (Exception ex)
+            {
+                _err.AddException(ex, this, "MoveNextFileWhenLastFileNextDirectory");
+            }
+        }
+        public void MoveProviousFileWhenFirstFilePreviousDirectory()
+        {
+            try
+            {
+                if (_files.IsFirstIndex()) { this.MovePreviousDirectory(); }
+                else { _files.MovePrevious(); }
+            }
+            catch (Exception ex)
+            {
+                _err.AddException(ex, this, "MoveNextFileWhenLastFileNextDirectory");
+            }
+        }
+
         public void MoveNextDirectory()
         {
             try

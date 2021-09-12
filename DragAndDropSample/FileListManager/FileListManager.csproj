@@ -57,6 +57,9 @@
     <Compile Include="..\FileListManagerSample\FileListManager\Files.cs">
       <Link>Files.cs</Link>
     </Compile>
+    <Compile Include="..\FileListManagerSample\FileListManager\IFiles.cs">
+      <Link>IFiles.cs</Link>
+    </Compile>
     <Compile Include="..\FileListManagerSample\FileListManager\RandomCreater.cs">
       <Link>RandomCreater.cs</Link>
     </Compile>
@@ -66,7 +69,6 @@
     <Compile Include="..\FileListManagerSample\FileListManager\ShortCutReader.cs">
       <Link>ShortCutReader.cs</Link>
     </Compile>
-    <Compile Include="IFiles.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -19,6 +19,21 @@ namespace CommonUtility.FileListUtility
             this.FileList = list;
         }
 
+        public bool IsLastIndex()
+        {
+            if(_fileList == null) { return true; }
+            if(_fileList.Count < 1) { return true; }
+            if(NowIndex >= (_fileList.Count - 1)) { return true; }
+            else { return false; }
+        }
+
+        public bool IsFirstIndex()
+        {
+            if (_fileList == null) { return true; }
+            if (_fileList.Count < 1) { return true; }
+            if (NowIndex <= 0) { return true; }
+            else { return false; }
+        }
         public void SelectedFileEvent(object sender,EventArgs e)
         {
             try

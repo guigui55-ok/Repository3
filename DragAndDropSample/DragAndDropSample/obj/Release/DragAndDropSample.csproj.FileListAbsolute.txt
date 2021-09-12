@@ -4,7 +4,6 @@ C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\bin\Rel
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\bin\Release\ErrorManager.dll
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\bin\Release\ErrorManager.pdb
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\bin\Release\ErrorManager.dll.config
-C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.csprojAssemblyReference.cache
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.DragAndDropSample.resources
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.Properties.Resources.resources
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.csproj.GenerateResource.cache
@@ -12,3 +11,4 @@ C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Rel
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.csproj.CopyComplete
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.exe
 C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.pdb
+C:\Users\OK\source\repos\Repository3\DragAndDropSample\DragAndDropSample\obj\Release\DragAndDropSample.csprojAssemblyReference.cache

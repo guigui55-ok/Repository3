@@ -14,5 +14,8 @@ namespace CommonUtility.FileListUtility
         string GetCurrentValue();
         List<string> GetList();
 
+        bool IsLastIndex();
+        bool IsFirstIndex();
+
     }
 }
