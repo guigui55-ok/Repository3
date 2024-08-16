@@ -1,0 +1,20 @@
+<!--1階層目-->
+<UL>
+    <LI><OBJECT type="text/sitemap">
+    <param name="Name" value="Title"/>Excel Cells Manager ヘルプ目次 <!--表示される名前-->
+    <param name="Local" value="htmlFilePath"/> <!--ヘルプページのパス-->
+    <param name="ImageNumber" value="1"/> <!--アイコン-->
+    </OBJECT></LI>
+
+    <!--2階層目--> 
+　　<UL>  
+        <LI><OBJECT type="…">てすと1
+        </OBJECT></LI>
+
+        <!--以下無限に繰り返せる-->
+        <UL> 
+　　　　     <LI><OBJECT type="…">てすと2
+            </OBJECT></LI>
+        </UL>
+    </UL>　
+</UL>

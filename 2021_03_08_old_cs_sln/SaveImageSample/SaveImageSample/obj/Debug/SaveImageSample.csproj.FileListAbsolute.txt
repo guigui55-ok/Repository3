@@ -1,0 +1,10 @@
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.Form1.resources
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.Properties.Resources.resources
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\bin\Debug\SaveImageSample.exe.config
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\bin\Debug\SaveImageSample.exe
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\bin\Debug\SaveImageSample.pdb
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.exe
+C:\Users\OK\source\repos\SaveImageSample\SaveImageSample\obj\Debug\SaveImageSample.pdb

@@ -1,0 +1,10 @@
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\bin\Debug\SampleSettingsForm.exe.config
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\bin\Debug\SampleSettingsForm.exe
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\bin\Debug\SampleSettingsForm.pdb
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.Properties.Resources.resources
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.exe
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.pdb
+C:\Users\OK\source\repos\SampleSettingsForm\SampleSettingsForm\obj\Debug\SampleSettingsForm.SettinsSampleForm.resources

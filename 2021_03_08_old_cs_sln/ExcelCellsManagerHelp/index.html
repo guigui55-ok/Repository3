@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>chrome extention test</title>
+</head>
+<body>    
+    <h3>Excel Cells Manager ヘルプファイル</h3>
+    <div id="mainContents">
+        <h4>Excel Cells Manager Ver1.0.0.0</h4>        
+        
+        <p id="update">最終更新日 2021/10/06</p>
+        <div id="subContents">
+            <div>
+            <p class="sectionTitle" id="summary">概要</p>
+            <div class="sectionContents">
+                エクセルの任意のセルの位置(アドレス)を登録し、登録した位置を表示するアプリケーションです。
+            </div>
+            
+            </div>
+            <p class="sectionTitle" id="function">機能</p>
+            <div class="sectionContents">
+                <ul>
+                        
+                    <li>エクセルの任意のセルの位置(アドレス)を登録します。</li>                
+                    <li>登録した位置を表示(セルを選択状態に)します。
+                        表示するワークブックが開いていないときは自動的にワークブックを開きます。  </li>
+                    <li>アプリケーションが前面にないとき、表示しているスクリーン淵の設定された位置へマウスポインタを移動することで、アプリケーションを前面に表示します。</li>
+                    <li>保存・読込：登録アドレスリストをtsvファイルとして保存、保存したtsvファイルを読み込み表示します。</li>
+                    <li>アプリケーションフォーム上にドラッグ＆ドロップすることでファイルを読み込みます。</li>
+                    <li>DataGridView の RowHeader ダブルクリックで登録した位置を表示します。</li> 
+                    <li>動作時のログ保存、出力をします。</li>
+                    <li>CheckedListBox で選択されているワークブックを閉じます。</li>
+                    <li>アプリケーション設定をファイル(iniファイル)に保存します。</li>
+                    <li>実行されているエクセルのプロセス(EXCEL.EXE)および開いているワークブックを取得・表示します。
+                        また、アプリケーション実行中は、ワークブックの実行・終了を検知し、自動的に更新します。</li>
+                </ul>
+            </div>
+            <p class="sectionTitle" id="shortcut">ショートカットキー</p>
+            <div class="sectionContents">
+                <ul>
+                    <li>Ctrl＋O：開く</li>
+                    <li>Ctrl＋S：ファイルを保存(上書き保存、ファイル名が設定されていないときは名前を付けて保存)</li>
+                    <li>Ctrl＋Shift＋S：名前を付けて保存</li>
+                    <li>Ctrl＋Shift＋S：名前を付けて保存</li>
+                    <li>Ctrl＋Shift＋O：設定ウィンドウを開く  </li>
+                </ul>          
+            </div>
+            
+            <p class="sectionTitle" id="howToUse">基本的な使い方</p>
+            <div class="sectionContents">
+                <ul>
+                    <li>ボタン[アドレスを登録]：アプリケーションフォーム下部に表示されるアドレス(例：ActiveCell: A1 &lt; Sheet1 &lt; Workbook.xlsm)を、フォーム内の DataGridView に追加します。</li>
+                    <li>ボタン[選択する]：フォーム内の DataGridView に表示されているデータのワークブックウィンドウとワークシートをアクティブにし、セルのアドレスを選択します。</li>
+                    <li>ボタン[ActiveCell表示]：現在の選択されているセルのワークブックウィンドウとワークシートをアクティブにし、セルのアドレスを選択します。</li>
+                    <li>ボタン[コピー]：フォーム内の DataGridView に表示されているデータのワークブックウィンドウとワークシートをアクティブにし、セルの値をクリップボードにコピーします。</li>
+                    <li>ボタン[ブックを閉じる]：アプリケーション上部の CheckedListBox に表示されているワークブックがチェック状態のとき、そのワークブックを閉じます。</li>
+                    <li>ボタン[リスト更新]：現在開いているエクセルのプロセス(EXCEL.EXE)をすべて取得し、さらにそのプロセスが保持しているワークブックを取得したのち、その一覧をアプリケーション上部の CheckedListBox に表示します。</li>
+                </ul>
+            </div>
+            
+            <p class="sectionTitle" id="env">動作確認環境</p>
+            <div class="sectionContents">
+                OS Version : Windows10 20H2 (OS ビルド 19042.1237)<br>
+                .NET Framework Version : .NET Framework 4.8
+            </div>
+            
+            <p class="sectionTitle" id="menuList">メニュー一覧</p>
+            <div class="sectionContents">
+                <ul>
+                    <p class="listChildTitle">〇ファイル(F)</p>
+                    <ul id="listChild">
+                        <li>・開く(O) - Ctrl＋O</li>
+                        <li>・上書き保存(S) - Ctrl＋S</li>
+                        <li>・名前を付けて保存(A) - Shift＋Ctrl＋A</li>
+                        <li>・終了（X) Ctrl＋X</li>                        　
+                    </ul>
+                    <p class="listChildTitle">〇オプション(O)</p>
+                    <ul class="listChild">
+                        <li>・設定(S) - Shift＋Ctrl＋S</li>
+                    </ul>                    　
+                </ul>
+            </div>
+            
+            <p class="sectionTitle" id="history">変更履歴</p>
+            <div class="sectionContents">
+                <li>
+                    2021.10.06 - ・ヘルプファイル原案作成
+                </li>                
+            </div>
+            
+        </div><!-- subContents -->
+    </div><!-- mainContents -->
+</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\OK\source\ImageViewer2\PictureBox\MenuStripSample\obj\Debug\MenuStripSample.csprojAssemblyReference.cache
+C:\Users\OK\source\ImageViewer2\PictureBox\MenuStripSample\obj\Debug\MenuStripSample.MenuStripSampleForm.resources
+C:\Users\OK\source\ImageViewer2\PictureBox\MenuStripSample\obj\Debug\MenuStripSample.Properties.Resources.resources
+C:\Users\OK\source\ImageViewer2\PictureBox\MenuStripSample\obj\Debug\MenuStripSample.csproj.GenerateResource.cache
+C:\Users\OK\source\ImageViewer2\PictureBox\MenuStripSample\obj\Debug\MenuStripSample.csproj.CoreCompileInputs.cache

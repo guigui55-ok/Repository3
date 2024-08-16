@@ -1,0 +1,10 @@
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\bin\Debug\TableLayoutSample.exe.config
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\bin\Debug\TableLayoutSample.exe
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\bin\Debug\TableLayoutSample.pdb
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.Form1.resources
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.Properties.Resources.resources
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.exe
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.pdb
+C:\Users\OK\source\repos\TableLayoutSample\TableLayoutSample\obj\Debug\TableLayoutSample.csprojAssemblyReference.cache

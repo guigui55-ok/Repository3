@@ -1,0 +1,13 @@
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe.config
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\obj\Debug\ErrorLog.exe
+C:\Users\OK\source\repos\ErrorLog\ErrorLog\obj\Debug\ErrorLog.pdb
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe.config
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.exe
+C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.pdb

@@ -1,0 +1,14 @@
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\OpenFileSample.exe.config
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\OpenFileSample.exe
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\OpenFileSample.pdb
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.Form1.resources
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.Properties.Resources.resources
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.exe
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.pdb
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\ErrorManager.dll
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\ErrorManager.pdb
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\bin\Debug\ErrorManager.dll.config
+C:\Users\OK\source\repos\OpenFileSample\OpenFileSample\obj\Debug\OpenFileSample.csproj.CopyComplete

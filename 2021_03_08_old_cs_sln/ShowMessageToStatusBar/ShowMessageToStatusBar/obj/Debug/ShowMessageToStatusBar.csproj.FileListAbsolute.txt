@@ -1,0 +1,13 @@
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\bin\Debug\ShowMessageToStatusBar.exe.config
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\bin\Debug\ShowMessageToStatusBar.exe
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\bin\Debug\ShowMessageToStatusBar.pdb
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\bin\Debug\ErrorManager.pdb
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\bin\Debug\ErrorManager.dll.config
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.ShowMessageToStatusBarForm.resources
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.Properties.Resources.resources
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.csproj.CopyComplete
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.exe
+C:\Users\OK\source\repos\ShowMessageToStatusBar\ShowMessageToStatusBar\obj\Debug\ShowMessageToStatusBar.pdb

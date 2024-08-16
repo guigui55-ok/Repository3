@@ -1,0 +1,10 @@
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\bin\Debug\ToolBarSample.exe.config
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\bin\Debug\ToolBarSample.exe
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\bin\Debug\ToolBarSample.pdb
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.ToolBarSampleForm.resources
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.Properties.Resources.resources
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.exe
+C:\Users\OK\source\repos\ToolBarSample\ToolBarSample\obj\Debug\ToolBarSample.pdb

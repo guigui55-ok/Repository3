@@ -1,0 +1,14 @@
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ImageViewer2.exe.config
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ImageViewer2.exe
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ImageViewer2.pdb
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ErrorLog.exe
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ErrorLog.pdb
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\bin\Debug\ErrorLog.exe.config
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ViewImage.csprojAssemblyReference.cache
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ImageViewer2.TestViewImageForm.resources
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ImageViewer2.Properties.Resources.resources
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ViewImage.csproj.GenerateResource.cache
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ViewImage.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ViewImage.csproj.CopyComplete
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ImageViewer2.exe
+C:\Users\OK\source\ImageViewer2\PictureBox\ImageViewer2\obj\Debug\ImageViewer2.pdb

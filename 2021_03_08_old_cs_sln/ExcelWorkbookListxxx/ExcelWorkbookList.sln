@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWorkbookList", "ExcelWorkbookList\ExcelWorkbookList.csproj", "{7578A145-B7BA-41DD-A77A-32D2BD396EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelManagerWorkbookList", "..\guigui55-ok_Repos2\ExcelManager\ExcelManagerWorkbookList\ExcelManagerWorkbookList.csproj", "{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Debug|x64.ActiveCfg = Debug|x64
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Debug|x64.Build.0 = Debug|x64
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Release|x64.ActiveCfg = Release|x64
+		{7578A145-B7BA-41DD-A77A-32D2BD396EF8}.Release|x64.Build.0 = Release|x64
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Debug|x64.ActiveCfg = Debug|x64
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Debug|x64.Build.0 = Debug|x64
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Release|x64.ActiveCfg = Release|x64
+		{D5E857C5-AA76-4D5F-8B10-6EFCFA7A796B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {223FC36D-9D6D-403D-8D90-28DD586530EC}
+	EndGlobalSection
+EndGlobal
