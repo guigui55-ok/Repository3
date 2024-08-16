@@ -20,10 +20,10 @@ namespace AppendToRichTextBoxAsyncWithLoopSample
             _hasControl = hasControl;
         }
 
-        // ③ 非同期でコントロールにアクセスするための delegate を実装する
+        // 非同期でコントロールにアクセスするための delegate を実装する
         public delegate void DelegateAppendTextToRichTextBoxBySubThread();
 
-        // ④ 非同期でコントロールにアクセスするための Method を実装する
+        // 非同期でコントロールにアクセスするための Method を実装する
         private void AppendTextToRichTextBoxBySubThread()
         {
             try
