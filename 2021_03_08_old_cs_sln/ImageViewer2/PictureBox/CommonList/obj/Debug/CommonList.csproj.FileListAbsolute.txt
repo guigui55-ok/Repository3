@@ -4,3 +4,10 @@ C:\Users\OK\source\ImageViewer2\PictureBox\CommonList\bin\Debug\CommonList.pdb
 C:\Users\OK\source\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.csproj.CoreCompileInputs.cache
 C:\Users\OK\source\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.exe
 C:\Users\OK\source\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.pdb
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\bin\Debug\CommonList.exe.config
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\bin\Debug\CommonList.exe
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\bin\Debug\CommonList.pdb
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.exe
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\PictureBox\CommonList\obj\Debug\CommonList.pdb

@@ -1,6 +1,7 @@
 ﻿using System;
 using ErrorLog;
 using System.Windows.Forms;
+using System.IO;
 
 namespace ImageViewer2
 {
@@ -88,8 +89,9 @@ namespace ImageViewer2
         }
 
 
-        private void get_path_test_image_file(){
-            string path = @"C:\ZMyFolder_2\default_file_path.txt";
+        private string get_path_test_image_file()
+        {
+            string filePath = @"C:\ZMyFolder_2\default_file_path.txt";
             try
             {
                 // ファイルを読み込んでその内容を表示する
@@ -99,6 +101,7 @@ namespace ImageViewer2
                     while ((line = sr.ReadLine()) != null)
                     {
                         Console.WriteLine(line);
+                        return line;
                     }
                 }
             }
@@ -108,6 +111,7 @@ namespace ImageViewer2
                 Console.WriteLine("The file could not be read:");
                 Console.WriteLine(e.Message);
             }
+            return "";
         }
 
         public int test_paint(Form1 form,PictureBox pictureBox)
@@ -146,27 +150,27 @@ namespace ImageViewer2
                 _errorLog.ShowErrorMessage();
             }
         }
-        private void get_path_test_image_file(){
-            string path = @"C:\ZMyFolder_2\default_file_path.txt";
-            try
-            {
-                // ファイルを読み込んでその内容を表示する
-                using (StreamReader sr = new StreamReader(filePath))
-                {
-                    string line;
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        Console.WriteLine(line);
-                    }
-                }
-            }
-            catch (Exception e)
-            {
-                // エラーが発生した場合はエラーメッセージを表示する
-                Console.WriteLine("The file could not be read:");
-                Console.WriteLine(e.Message);
-            }
-        }
+        //private void get_path_test_image_file(){
+        //    string path = @"C:\ZMyFolder_2\default_file_path.txt";
+        //    try
+        //    {
+        //        // ファイルを読み込んでその内容を表示する
+        //        using (StreamReader sr = new StreamReader(filePath))
+        //        {
+        //            string line;
+        //            while ((line = sr.ReadLine()) != null)
+        //            {
+        //                Console.WriteLine(line);
+        //            }
+        //        }
+        //    }
+        //    catch (Exception e)
+        //    {
+        //        // エラーが発生した場合はエラーメッセージを表示する
+        //        Console.WriteLine("The file could not be read:");
+        //        Console.WriteLine(e.Message);
+        //    }
+        //}
         public int test_paint_fit(Form1 form, PictureBox pictureBox)
         {
             int Ret;

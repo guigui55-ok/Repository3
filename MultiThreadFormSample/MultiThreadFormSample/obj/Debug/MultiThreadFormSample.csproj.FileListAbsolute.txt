@@ -8,3 +8,13 @@ C:\Users\OK\source\repos\MultiThreadFormSample\MultiThreadFormSample\bin\Debug\M
 C:\Users\OK\source\repos\MultiThreadFormSample\MultiThreadFormSample\bin\Debug\MultiThreadFormSample.pdb
 C:\Users\OK\source\repos\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.exe
 C:\Users\OK\source\repos\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.pdb
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\bin\Debug\MultiThreadFormSample.exe.config
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\bin\Debug\MultiThreadFormSample.exe
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\bin\Debug\MultiThreadFormSample.pdb
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.Form1.resources
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.Properties.Resources.resources
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.csproj.GenerateResource.cache
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.exe
+C:\Users\OK\source\repos\Repository3_CS\MultiThreadFormSample\MultiThreadFormSample\obj\Debug\MultiThreadFormSample.pdb

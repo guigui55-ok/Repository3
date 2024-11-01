@@ -1,0 +1,37 @@
+Windows Media Foundation インストール
+https://learn.microsoft.com/ja-jp/windows/win32/medfound/about-the-media-foundation-sdk
+
+https://support.microsoft.com/ja-jp/topic/description-of-the-windows-media-feature-pack-for-n-and-kn-versions-of-all-windows-8-editions-4a96f5a9-e3ce-dc37-bff9-ff4fb3369aa2
+
+
+-----
+2. 必要な参照を追加
+Visual StudioでプロジェクトにMedia Foundationを利用するための参照を追加します。
+
+ソリューションエクスプローラーでプロジェクトを右クリックし、**「参照の追加」**を選択します。
+**「アセンブリ」タブから、「Microsoft.Windows.SDK.Contracts」**を追加します。
+さらに、mfplat.dllやmf.dllなどのMedia Foundation関連のDLLが必要な場合は、P/Invokeを使用してこれらの関数をインポートできます。
+
+
+参照設定について、SDKでヒットするのが以下の4つしかいないのですが、どうしたらよいでしょう？
+Microsoft.VisualStudio.Modeling.Sdk.Integration.15.0
+Microsoft.VisualStudio.Modeling.Sdk.Integration.Shell.15.0
+Microsoft.VSSDK.TestHostFramework
+Microsoft.VSSDK.UnitTestLibrary
+
+
+
+
+1. NuGetパッケージの利用
+Media Foundationに直接対応するC#のラッパーライブラリが存在します。以下のようなNuGetパッケージをプロジェクトに追加することで、Media Foundation APIを簡単に利用できます。
+
+MediaFoundation.Net: これはMedia Foundationの.NETラッパーです。これをプロジェクトに追加すると、Media Foundationの機能をC#から利用できるようになります。
+NuGetパッケージを追加する手順:
+
+Visual Studioでソリューションエクスプローラーを開き、プロジェクトを右クリックします。
+**「NuGetパッケージの管理」**を選択します。
+**「参照」**タブで、MediaFoundation.Netを検索し、インストールします
+
+
+Nugetインストール
+PInvoke.Windows.Core

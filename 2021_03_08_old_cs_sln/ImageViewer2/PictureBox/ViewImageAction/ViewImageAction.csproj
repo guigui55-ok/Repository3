@@ -71,6 +71,7 @@
     <Compile Include="Events\ControlEvents.cs" />
     <Compile Include="Events\ViewImageMouseEventHandler.cs" />
     <Compile Include="Events\MouseEvents.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Include\IViewControlState.cs" />
     <Compile Include="Include\IViewImageSettings.cs" />
     <Compile Include="Include\PictureBoxControl.cs" />

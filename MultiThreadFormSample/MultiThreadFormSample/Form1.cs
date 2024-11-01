@@ -43,6 +43,12 @@ namespace MultiThreadFormSample
             //
             count = 0;
             label1.Text = "";
+            /*
+             * Form_Load時に、カウントを継続するループ処理を実行開始しておく（アプリ終了まで実行される）
+             * 以下の最初のUpdateTextは表示リセット用
+             * ボタンを押下して、flag=Trueの時にだけ、カウントあを増やして、それをUpdateTextでフォームに表示している
+             * ループ内の待機とフラグによる処理実行を、非同期で行うテスト用
+             */
             // スレッドを生成して開始する
             thread = new Thread(new ThreadStart(ThreadProc));
             thread.Start();
@@ -67,6 +73,9 @@ namespace MultiThreadFormSample
             try
             {
                 //label1.Text = string.Format("{0}", count);
+                // メイン処理と同じスレッドなら別スレッドから呼び出し
+                // 別スレッドならそのままこのUpdateTextを実行する
+                // InvokeRequired で判定して、分岐させている
                 if (this.InvokeRequired)
                 {
                     if (IsClosing) { Console.WriteLine("UpdateText End");  return; }

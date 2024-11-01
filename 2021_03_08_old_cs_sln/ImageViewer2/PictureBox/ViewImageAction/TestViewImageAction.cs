@@ -8,6 +8,7 @@ using System.Diagnostics;
 using System.Reflection;
 using ViewImageAction.BaseForm;
 using ViewImageAction.Events;
+using System.IO;
 
 namespace ViewImageAction
 {
@@ -120,8 +121,8 @@ namespace ViewImageAction
             _viewImageBasicFunction.ViewImageNowIndex();
         }
 
-        private void get_path_test_image_file(){
-            string path = @"C:\ZMyFolder_2\default_file_path.txt";
+        private string get_path_test_image_file(){
+            string filePath = @"C:\ZMyFolder_2\default_file_path.txt";
             try
             {
                 // ファイルを読み込んでその内容を表示する
@@ -131,8 +132,10 @@ namespace ViewImageAction
                     while ((line = sr.ReadLine()) != null)
                     {
                         Console.WriteLine(line);
+                        return line;
                     }
                 }
+                return "";
             }
             catch (Exception e)
             {
@@ -140,6 +143,7 @@ namespace ViewImageAction
                 Console.WriteLine("The file could not be read:");
                 Console.WriteLine(e.Message);
             }
+            return "";
         }
 
 

@@ -38,6 +38,7 @@ namespace AppendToRichTextBoxAsyncWithLoopSample
         {
             // DoLoopMethod 終了まで表示されたままとなるため、Visible で見かけ上終了させる
             this.Visible = false;
+            this._doLoop = null;
         }
 
         private void AppendToRichTextBoxAsyncWithLoopSampleForm_FormClosed(object sender, FormClosedEventArgs e)

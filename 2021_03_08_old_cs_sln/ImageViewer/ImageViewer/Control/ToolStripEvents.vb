@@ -1,4 +1,5 @@
 ﻿Imports ImageViewer
+Imports System.IO
 
 Public Class ToolStripEvents
     Inherits AbstractEvents
@@ -271,9 +272,15 @@ Public Class ToolStripEvents
     '=======================================================================
     Private Sub resistToolStripItem()
         Try
+            Dim path As String = New CommonFile().getCurrentDirectory() & "\icon\icons8-ファイル-48.png"
+            addLog(String.Format("### icon Path = {0}", path))
+            '# ファイル存在チェック
+            If Not File.Exists(path) Then
+                Throw New FileNotFoundException(String.Format("Path Not Found = {0}", path))
+            End If
             'Buttonを追加
             Dim ttoolStripButton As ToolStripButton = Me.addButtonToToolStrip(
-                mToolStrip, "", "ファイルを開く", New CommonFile().getCurrentDirectory() & "\icon\icons8-ファイル-48.png")
+                mToolStrip, "", "ファイルを開く", path)
             AddHandler ttoolStripButton.Click, AddressOf FileOpen_Click
             'Buttonを追加
             ttoolStripButton = Me.addButtonToToolStrip(mToolStrip, "", "前へ", My.Resources.icon_previousfile)

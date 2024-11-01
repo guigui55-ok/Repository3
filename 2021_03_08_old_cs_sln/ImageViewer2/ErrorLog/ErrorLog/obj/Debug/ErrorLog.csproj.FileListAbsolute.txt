@@ -11,3 +11,10 @@ C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.pdb
 C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
 C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.exe
 C:\Users\OK\source\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.pdb
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe.config
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.exe
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csprojAssemblyReference.cache
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.exe
+C:\Users\OK\source\repos\Repository3_CS\2021_03_08_old_cs_sln\ImageViewer2\ErrorLog\ErrorLog\obj\Debug\ErrorLog.pdb
