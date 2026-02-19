@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PipeCallApp/PipeCallApp.csproj" />
+  <Project Path="PipeTest1/PipeTest1.csproj" />
+</Solution>
