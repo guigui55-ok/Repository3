@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="PipeCallApp/PipeCallApp.csproj" />
-  <Project Path="PipeTest1/PipeTest1.csproj" />
+  <Project Path="PipeCallApp/PipeCallApp.csproj" Id="e5ec7c3f-ed2e-490e-9c34-5708b3059146" />
+  <Project Path="PipeTest1/PipeTest1.csproj" Id="3bc37540-79e0-4eda-9895-dff1afc276b3" />
 </Solution>
