@@ -14,7 +14,7 @@ namespace TempFileNameTester
                 args = new string[]
                 {
                     "--mode", "master",
-                    "--process-count", "6",
+                    "--process-count", "8",
                     "--thread-count", "4",
                     "--loop-count", "1000",
                     "--wait-ms", "0",
@@ -30,7 +30,8 @@ namespace TempFileNameTester
                  * process:4 ,thread:2, loop:1000, wait:0, delete:false
                  * TotalCount=8000, DuplicateCount=0
                  * process:6 ,thread:4, loop:1000, wait:0, delete:false
-                 * TotalCount=24000, DuplicateCount=0
+                 * TotalCount=24000, DuplicateCount=
+                 * process:8 ,thread:4, loop:1000, wait:0, delete:false
                  */
 
 
