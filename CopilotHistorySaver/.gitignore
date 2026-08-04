@@ -1,0 +1,127 @@
+# ==========================
+# Build Results
+# ==========================
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Publish
+publish/
+
+# Test Results
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# ==========================
+# Visual Studio
+# ==========================
+.vs/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# ==========================
+# NuGet
+# ==========================
+packages/
+!packages/build/
+*.nupkg
+*.snupkg
+
+# Ignore NuGet Package Restore
+*.nuget.props
+*.nuget.targets
+
+# ==========================
+# Generated Files
+# ==========================
+Generated/
+Generated_Code/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# ==========================
+# Azure
+# ==========================
+PublishProfiles/
+*.publishsettings
+
+# ==========================
+# SQL Server
+# ==========================
+*.mdf
+*.ldf
+
+# ==========================
+# Local DB
+# ==========================
+*.dbmdl
+
+# ==========================
+# Cache
+# ==========================
+*.cache
+*.tmp
+*.temp
+
+# ==========================
+# OS Files
+# ==========================
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Backup Files
+# ==========================
+*.bak
+*.backup
+
+# ==========================
+# Dotnet
+# ==========================
+artifacts/
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# dotCover
+*.dotCover
+
+# ==========================
+# Secrets
+# ==========================
+secrets.json
+
+# ==========================
+# Temporary
+# ==========================
+*.pidb
+*.svclog
+*.pdb
+*.opendb
+
+# ==========================
+# Excel Temporary Files
+# ==========================
+~$*.xlsx
+~$*.xlsm
+~$*.xls

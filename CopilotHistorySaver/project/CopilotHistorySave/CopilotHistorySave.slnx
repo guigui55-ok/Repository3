@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CopilotHistorySave.Tests/CopilotHistorySave.Tests.csproj" />
+  <Project Path="CopilotHistorySave/CopilotHistorySave.csproj" Id="b4a2792b-b2d8-4328-a89f-03d359458e52" />
+</Solution>
