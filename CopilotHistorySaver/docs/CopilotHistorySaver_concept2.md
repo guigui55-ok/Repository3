@@ -129,3 +129,10 @@ C:\Users\intru\AppData\Roaming\Code\User\workspaceStorage\777123967f1588172686ce
 （ D:\git\Repository3\CopilotHistorySaver\sample_project\CopilotHistorySaveSample ）
 
 4. 調査結果をもとに、正式な要求を整理する。
+実装済み、動作確認済み
+
+
+--- 今後
+* 使い方の調整が必要
+* PC内全体を試しに取得してみる。
+* 実際に、質問文を列挙して解析する。
